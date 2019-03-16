@@ -1,1 +1,1 @@
-# tic-tak-toe
+# ghost-text
